@@ -1,4 +1,4 @@
-🖐️**Hand Tracking Mouse Control**
+🖐️**Hand-Controlled Mouse Cursor**
 
 A simple Python project that uses MediaPipe to track hand movements and control the mouse cursor with finger gestures.
 
